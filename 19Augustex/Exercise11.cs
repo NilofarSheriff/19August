@@ -23,7 +23,7 @@ namespace _19Augustex
                
                 
             }
-            Console.WriteLine(sum);
+            Console.WriteLine("The sum of the integers between {0} and {1} is {2}",start, end, sum);
 
             Console.ReadLine();
         }
