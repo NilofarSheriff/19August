@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>_19Augustex.Exercise7</StartupObject>
+    <StartupObject>_19Augustex.Exercise8</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -52,6 +52,7 @@
     <Compile Include="Exercise4.cs" />
     <Compile Include="Exercise5.cs" />
     <Compile Include="Exercise7.cs" />
+    <Compile Include="Exercise8.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
