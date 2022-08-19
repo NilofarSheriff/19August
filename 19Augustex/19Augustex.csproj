@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>_19Augustex.Exercise15</StartupObject>
+    <StartupObject>_19Augustex.Exercise14</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
